@@ -85,4 +85,8 @@ A markdown-based spec was created for engineers, including:
 ### Phase 4: Business Mapping  
 Each of the 5 reporting asks was linked back to specific fields and tables in the model.
 
+---
 
+## 📂 Supporting Files
+PEI Assignment.py: Contains Python code for data audit checks including null validations, join integrity, and aggregation testing.
+PEI Assignment Documentation.pdf: A detailed write-up covering problem understanding, data model, transformations, QA logic, and business mapping.
