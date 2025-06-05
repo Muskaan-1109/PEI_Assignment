@@ -88,5 +88,5 @@ Each of the 5 reporting asks was linked back to specific fields and tables in th
 ---
 
 ## 📂 Supporting Files
-PEI_Assignment.py: Contains Python code for data audit checks including null validations, join integrity, and aggregation testing.
-PEI_Assignment_Documentation.pdf: A detailed write-up covering problem understanding, data model, transformations, QA logic, and business mapping.
+- PEI_Assignment.py: Contains Python code for data audit checks including null validations, join integrity, and aggregation testing.
+- PEI_Assignment_Documentation.pdf: A detailed write-up covering problem understanding, data model, transformations, QA logic, and business mapping.
